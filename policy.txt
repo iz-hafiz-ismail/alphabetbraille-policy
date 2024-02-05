@@ -43,7 +43,7 @@ Third-party services may collect information such as device details, usage patte
 
 In line with our commitment to privacy, AlphabetBraille does not engage in the collection of user data. Therefore, no data retention or deletion policy is applicable.
 
-Effective Date: [Date]
+Effective Date: 1/2/2024
 
 Updates:
 This privacy policy may undergo periodic updates by FTSM UKM to align with changes in our practices or legal requirements. Users are encouraged to review the policy periodically to stay informed about how we protect their privacy.
